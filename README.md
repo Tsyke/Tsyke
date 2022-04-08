@@ -1,7 +1,6 @@
 <!-- Links -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- https://devicon.dev/ -->
-<link href="//cdn.jsdelivr.net/gh/Lukas-W/font-logos@v0.18/assets/font-logos.css" rel="stylesheet">
 <h1 align="center">👋 Hello everyone, I'm Tsyke!</h1>
 <h3 align="center">18 years old, french developper orient web</h3>
 <br>

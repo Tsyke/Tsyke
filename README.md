@@ -42,7 +42,6 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" alt="MySQL" height="55" width="55"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-
     <hr>
     <h3> Framwork </h3>
     <img align="center" alt="React" height="55" width="55"
@@ -53,20 +52,17 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="Vue" height="55" width="55"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-
     <hr>
     <h3> OS </h3>
     <img align="center" alt="Debian" height="55" width="55"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg">
     <img align="center" alt="Windows" height="55" width="55"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-
     <hr>
     <h3> Code editor </h3>
     <img align="center" alt="VSCode" height="55" width="55"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="IntelliJ" height="55" width="55"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-
     <hr>
     Copyright ©️ 2023, <a href="https://github.com/tsyke">Tsyke</a>

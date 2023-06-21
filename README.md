@@ -1,11 +1,6 @@
 <!-- Links -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- https://devicon.dev/ -->
-<style>
-    .flex {
-        display: flex;
-    }
-</style>
 <h1 align="center">👋 Hello everyone, I'm Tsyke!</h1>
 <h3 align="center">18 years old, french developper orient web<br>My Discord: https://discord.gg/qp4Tc9NWHm</h3>
 <br>
@@ -71,7 +66,7 @@
     <h3> Code editor </h3>
     <img align="center" alt="VSCode" height="55" width="55"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-        <img align="center" alt="IntelliJ" height="55" width="55"
+    <img align="center" alt="IntelliJ" height="55" width="55"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
 
     <hr>

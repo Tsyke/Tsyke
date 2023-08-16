@@ -2,7 +2,7 @@
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- https://devicon.dev/ -->
 <h1 align="center">👋 Hello everyone, I'm Tsyke!</h1>
-<h3 align="center">18 years old, french developper orient web<br>My Discord: https://discord.gg/qp4Tc9NWHm</h3>
+<h3 align="center">18 years old, french developper orient web<br>[My Discord](https://discord.gg/MwPeQ3ErVK)</h3>
 <br>
 
 <p align="center">

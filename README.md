@@ -1,8 +1,8 @@
 <!-- Links -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- https://devicon.dev/ -->
-<h1 align="center">👋 Hello everyone, I'm Tsyke!</h1>
-<h3 align="center">18 years old, french developper orient web<br>My Discord: https://discord.gg/MwPeQ3ErVK</h3>
+<h1 align="center">👋 Hello everyone, I'm Vortigern!</h1>
+<h3 align="center">20 years old, french developper orient NodeJS and love butterfly<br></h3>
 <br>
 
 <p align="center">
